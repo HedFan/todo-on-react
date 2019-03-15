@@ -1,0 +1,7 @@
+.item-status-filter {
+    color: gray;
+    display: flex;
+    width: 30%;
+    margin-left: auto;
+    justify-content: flex-end;
+}

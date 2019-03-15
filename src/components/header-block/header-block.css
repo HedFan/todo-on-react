@@ -1,0 +1,10 @@
+#root {
+    width: 50%;
+    margin: 30px auto;
+}
+
+@media (max-width: 800px) {
+    #root {
+        width: 90%;
+    }
+}
